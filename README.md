@@ -1,1 +1,1 @@
-# docker-exercices
+# docker-exercises
