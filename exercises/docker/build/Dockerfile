@@ -1,0 +1,3 @@
+FROM alpine
+
+ENTRYPOINT echo "IT WORKS!"
